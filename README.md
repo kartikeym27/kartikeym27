@@ -2,8 +2,7 @@ Hi there 👋, I'm Kartikey Mishra!
 
 
 
-
-                       ![image](https://github.com/user-attachments/assets/c2c0f05d-96de-40e7-9c18-2c65e6ac6b3c)
+![image](https://github.com/user-attachments/assets/c2c0f05d-96de-40e7-9c18-2c65e6ac6b3c)
 
 
 
