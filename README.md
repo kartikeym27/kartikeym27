@@ -4,14 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/c2c0f05d-96de-40e7-9c18-2c65e6ac6b3c)
 
-
-
-
-
-
 🔹 Software Engineer | Web Developer | AI Enthusiast
-
-
 
 Welcome to my GitHub profile! I'm passionate about full-stack development, machine learning, and exploring cutting-edge technologies. Here’s a bit more about me:
 
