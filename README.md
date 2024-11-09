@@ -1,4 +1,4 @@
-Hi there 👋, I'm Kartikey Mishra!
+**Hi there 👋, I'm Kartikey Mishra!**
 
 
 
@@ -52,7 +52,7 @@ TextUtils ✍️
 A text manipulation app with speech synthesis, word frequency analysis, dark mode, and more.
 
 🛠️ Skills
-Languages: Python, JavaScript
+**Languages: Python, JavaScript
 Web Development: HTML, CSS, Bootstrap, Tailwind CSS, Material UI, TypeScript, React, Node.js, Next.js
 Databases: SQL, Firebase, MongoDB
 Tools & Technologies: Git, GitHub, Google Cloud
@@ -65,5 +65,5 @@ Ethical Hacking Essentials (Codered)
 Email: kartikey.mishra@somaiya.edu
 GitHub | LinkedIn
 ⚡ Fun Fact
-I’m always on the lookout for ways to improve everyday processes using tech! 🚀
+I’m always on the lookout for ways to improve everyday processes using tech! 🚀**
 
